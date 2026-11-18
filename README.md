@@ -2,16 +2,6 @@
 
 Standalone mobile-first Discover tab for the Coy SDE intern assignment.
 
-## Part A: Suggested core features
-
-### 1. Private social-circle discovery
-
-Let users discover people through verified shared contexts such as a college, workplace, event, or friend group, while keeping the user's identity private until interest is mutual. This is required because Coy's strongest differentiator is helping people explore existing crushes safely; relevant context also makes the discovery experience more useful than a generic catalogue of strangers.
-
-### 2. Mutual-match conversation handoff
-
-When two people like each other, provide a lightweight, consent-based next step such as an optional conversation prompt or contact request. This is required because the mutual match should become a meaningful connection rather than an endpoint, while keeping the user in control and avoiding the pressure of an unsolicited message.
-
 ## Features
 
 - 32 seeded profiles with photos, bios, locations, and interests.
