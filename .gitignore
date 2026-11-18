@@ -27,3 +27,6 @@ dist-ssr
 data/state.json
 .gemini/
 .impeccable/
+
+# Local Netlify folder
+.netlify
